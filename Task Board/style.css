@@ -150,8 +150,8 @@ input {
 
 .ellipsis-icon {
 	display: inline-block;
-	float: right;
-  margin-right: 15px;
+    float: right;
+    margin-right: 15px;
 }
 
 .task-date {
